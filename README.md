@@ -1,0 +1,1 @@
+"#Color Palette Generator \n Generate Color Pallege using OpenAI API, javascript, Flask - Enter a prompt for the kind of color you want to generate and OpenAI generates that color for you and displays it in the browser - You can click on any of the palette to copy the Hex code of the color you want " 
